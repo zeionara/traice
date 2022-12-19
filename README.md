@@ -7,7 +7,7 @@ Tiny yet useful tool for consistent model training logs generation.
 To install through pip use the following command:
 
 ```sh
-pip install traicer
+pip install traice
 ```
 
 The tool requires only `pandas` package to be installed. However, there is `environment.yml` file which can be used for the same environment which is used for developing the tool:
