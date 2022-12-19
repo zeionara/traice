@@ -7,7 +7,7 @@ with open('README.md', 'r') as description_file:
 
 setup(
     name='traice',
-    version='0.1.0',
+    version='0.2.0',
     description='Tiny yet useful tool for consistent model training logs generation',
     url='https://github.com/zeionara/traice',
     author='Zeio Nara',

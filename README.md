@@ -1,5 +1,9 @@
 # traice
 
+<p align='center'>
+    <img src='assets/images/logo.jpg'/>
+</p>
+
 Tiny yet useful tool for consistent model training logs generation.
 
 # Installation
